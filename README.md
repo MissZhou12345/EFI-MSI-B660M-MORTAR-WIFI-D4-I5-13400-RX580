@@ -3,9 +3,24 @@
 #### 介绍
 EFI
 
+#### 硬件配置
+
+| 配置 | 型号 |
+| --- | --- |
+| CPU | i5-13400 |
+| 主板 | MSI-B660M-MORTAR-WIFI-D4  |
+| 内存 | 威刚 16G DDR4 3200 * 2 |
+| 显卡 | uhd730(未驱动)|蓝宝石RX580(免驱) |
+| 硬盘 | 西数SN770 1TB |
+
+
+
 #### 软件架构
 1. OC:0.9.2
 1. MacOS: Monterey 12.5.1 【[黑果小兵](https://blog.daliansky.net/macOS-Monterey-12.5.1-21G83-Release-version-with-OC-0.8.4-CLOVER-5148-and-FirPE-original-image.html)】
+
+
+#### 已解决
 1. 板载WIFI，蓝牙 已驱动
 1. USB已定制
 1. CPU大小核已驱动
