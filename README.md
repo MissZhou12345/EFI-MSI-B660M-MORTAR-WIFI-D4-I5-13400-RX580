@@ -27,6 +27,7 @@ EFI
 
 教程参考：https://github.com/sqlsec/Hackintosh
 
+初期EFI来源：https://github.com/AHREAL/Hackintosh-13400-B660M-RX580
 
 试了一下这个，13400的cpu温度还是获取不到
 https://www.tonymacx86.com/threads/i-need-help-i-cannot-obtain-cpu-temperature-for-my-intel-i5-13400.325818/
