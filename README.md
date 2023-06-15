@@ -10,7 +10,7 @@ EFI
 | CPU | i5-13400 |
 | 主板 | MSI-B660M-MORTAR-WIFI-D4  |
 | 内存 | 威刚 16G DDR4 3200 * 2 |
-| 显卡 | uhd730(未驱动)|蓝宝石RX580(免驱) |
+| 显卡 | UHD730(未驱动) \| 蓝宝石RX580(免驱) |
 | 硬盘 | 西数SN770 1TB |
 
 
@@ -21,9 +21,9 @@ EFI
 
 
 #### 已解决
-1. 板载WIFI，蓝牙 已驱动
 1. USB已定制
-1. CPU大小核已驱动
+1. CPU大小核已驱动(下面有跑分的区别，性能提升很大)
+1. 板载WIFI，蓝牙 已驱动
 2. 板载声卡已驱动
 3. 板载有线已驱动
 
@@ -43,7 +43,7 @@ EFI
 ![输入图片说明](img/963d77d6d0586e1efe77df815393997b.jpg)
 
 #### Win+Mac双系统解决Win系统时间时差问题
-1. 在Windows下运行
+在Windows下运行(保存成bat)
 ```
 Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
 ```
