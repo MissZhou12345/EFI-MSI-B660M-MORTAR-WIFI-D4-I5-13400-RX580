@@ -6,9 +6,9 @@ EFI
 #### 软件架构
 1. OC:0.9.2
 1. MacOS: Monterey 12.5.1 【[黑果小兵](https://blog.daliansky.net/macOS-Monterey-12.5.1-21G83-Release-version-with-OC-0.8.4-CLOVER-5148-and-FirPE-original-image.html)】
-1. 有线，wifi,蓝牙已驱动
-1. usb已定制
-1. cpu大小核已驱动
+1. 有线，wifi，蓝牙 已驱动
+1. USB已定制
+1. CPU大小核已驱动
 
 #### 未解决
 1. 睡眠未解决(因为是台式机所以关闭了睡眠)
