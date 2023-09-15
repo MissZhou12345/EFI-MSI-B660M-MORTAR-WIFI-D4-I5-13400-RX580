@@ -47,7 +47,12 @@ EFI
 1. 已驱动大小核
 ![输入图片说明](img/963d77d6d0586e1efe77df815393997b.jpg)
 
+#### 更换了开机引导皮肤
+1、control+enter 会记录当前选择(下次默认选择)；
+2、enter 直接按不会保存为默认的开机引导。
+
 #### Win+Mac双系统解决Win系统时间时差问题
+
 在Windows下运行(保存成bat)
 ```
 Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
